@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.2...v1.0.3) (2024-03-19)
+
+
+### Bug Fixes
+
+* replaced keyword spaces with hyphens and lowercase letters only ([d982e1d](https://github.com/CoCreate-app/CoCreate-rollup/commit/d982e1d26e99cfe620ebabdbd7fd6b20f61f4a44))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.1...v1.0.2) (2024-03-18)
 
 
