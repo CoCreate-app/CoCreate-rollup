@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.3...v1.0.4) (2024-04-29)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([7050da2](https://github.com/CoCreate-app/CoCreate-rollup/commit/7050da233bcf31c87fe910d4dfdf13d1ceb00d6e))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.2...v1.0.3) (2024-03-19)
 
 
