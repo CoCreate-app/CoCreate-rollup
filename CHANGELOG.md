@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.4...v1.0.5) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([8d7c1b3](https://github.com/CoCreate-app/CoCreate-rollup/commit/8d7c1b3e658724f0ba1ee22599ac2873d145378f))
+* svg icon class ([d872fd4](https://github.com/CoCreate-app/CoCreate-rollup/commit/d872fd48921b82ed96486aa002e746c2d4cc8843))
+
 ## [1.0.4](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.3...v1.0.4) (2024-04-29)
 
 
