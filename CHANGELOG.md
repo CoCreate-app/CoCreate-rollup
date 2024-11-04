@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.5...v1.1.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([1fcd25b](https://github.com/CoCreate-app/CoCreate-rollup/commit/1fcd25b923a7ea1984fed4b60f9f0f25b2576aaa))
+
+
+### Features
+
+* add prettier.config.js and format files ([5051958](https://github.com/CoCreate-app/CoCreate-rollup/commit/505195830f53c32f81de5843b856b5b0f78f0069))
+* add prettier.config.js and format files ([25ac2dc](https://github.com/CoCreate-app/CoCreate-rollup/commit/25ac2dc7751d1dd03160639e21fda6871ab189e2))
+
 ## [1.0.5](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.4...v1.0.5) (2024-06-12)
 
 
