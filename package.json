@@ -1,6 +1,6 @@
 {
   "name": "@cocreate/rollup",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Rollup integration tool for CoCreate applications, enabling file watching, automated chunking, lazy loading, and file uploading. It leverages CoCreate.config for streamlined project builds and development workflows.",
   "keywords": [
     "rollup",

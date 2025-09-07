@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.1.0...v1.1.1) (2025-09-07)
+
+
+### Bug Fixes
+
+* update query attributes ([75fb3f4](https://github.com/CoCreate-app/CoCreate-rollup/commit/75fb3f4e994e62d54ca339557a4aa9c7e9783050))
+* updated cocreate modules versions ([9ab29f1](https://github.com/CoCreate-app/CoCreate-rollup/commit/9ab29f1935808897e623d866c0a6fa54299aed72))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-rollup/compare/v1.0.5...v1.1.0) (2024-11-04)
 
 
